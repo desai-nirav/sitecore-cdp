@@ -1,0 +1,42 @@
+{
+  "title": "The epic Galaxy S21 5G deserves epic protection",
+  "subtitle": "Buy the Galaxy S21 5G today and get up to $100 instant credit toward the latest cases, earbuds and more.*",
+  "listtitle": "Featured Samsung Accessories",
+  "products": [
+    {
+      "name": "S Pen Fold Edition, Black",
+      "price": "50",
+      "img": "https://image-us.samsung.com/us/mobile-accessories/b2/s-pens/EJ-PF926B_001_Front_Black_RGB-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Galaxy Z Fold3 5G Silicone Cover, White",
+      "price": "40",
+      "img": "https://image-us.samsung.com/us/mobile-accessories/q2/gallery/Gallery-EF-PF926T-01-Dynamic-White-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Galaxy Z Fold3 5G Flip Cover with Pen, Black",
+      "price": "80",
+      "img": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/8-11-21/PDP-GALLERY-Q-cover_Spen-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "25W Super Fast Wall Charger, White",
+      "price": "20",
+      "img": "https://image-us.samsung.com/us/smartphones/galaxy-s21/palette/fast-charger-25w/gallery/EP-TA800N_US__001_Dynamic_White.jpg?$product-details-blur-jpg$"
+    },
+    {
+      "name": "Galaxy Buds Pro, Phantom Violet",
+      "price": "170",
+      "img": "https://image-us.samsung.com/us/smartphones/galaxy-s21/attic/violet/Position9_PDP-GALLERY-Attic-Violet-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Expand your Galaxy Ecosystem Bundle",
+      "price": "1400",
+      "img": "https://image-us.samsung.com/SamsungUS/configurator/bundles/Themed-Bundle-Tab_S7plus_Mystic_Black_keyboard-GW3-BudsPro-Merch-1600x1200.png?$product-card-small-jpg$"
+    },
+    {
+      "price": "30",
+      "name": "Quick Change Silicone Sport Watch Band (20mm) Crimson Red",
+      "img": "https://image-us.samsung.com/SamsungUS/home/mobile/mobile-accessories/watches/11-06-2020/3-piece/Crimson.jpg?$product-details-jpg$"
+    }
+  ]
+}

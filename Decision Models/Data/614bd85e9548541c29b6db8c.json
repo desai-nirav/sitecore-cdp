@@ -1,0 +1,52 @@
+{
+  "title": "Mix. Match. MagSafe.",
+  "subtitle": "Snap on a case, wallet, wireless charger, or the new battery pack.",
+  "listtitle": "Featured iPhone Accessories",
+  "products": [
+    {
+      "name": "iPhone 13 Pro Max Leather Case with MagSafe - Wisteria",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM1P3?wid=532&hei=582&fmt=png-alpha&.v=1629962874000"
+    },
+    {
+      "name": "iPhone Leather Wallet with MagSafe - Golden Brown",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM0Q3_AV2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1629865174000"
+    },
+    {
+      "name": "iPhone 13 Clear Case with MagSafe",
+      "price": "50",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2X3?wid=532&hei=582&fmt=png-alpha&.v=1630622653000"
+    },
+    {
+      "name": "iPhone 13 Pro Silicone Case with MagSafe - Clover",
+      "price": "50",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2F3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1629923594000"
+    },
+    {
+      "name": "iPhone 12 mini Leather Sleeve with MagSafe - Deep Violet",
+      "price": "130",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK093?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1617329609000"
+    },
+    {
+      "name": "MagSafe Duo Charger",
+      "price": "130",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXF3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1602179308000"
+    },
+    {
+      "name": "Belkin BOOST CHARGE PRO 3-in-1 Wireless Charger with MagSafe - White",
+      "price": "140",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPGA2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1619024763000"
+    },
+    {
+      "name": "Mophie 3-in-1 Stand for MagSafe Charger",
+      "price": "90",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPP82?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1623426899000"
+    },
+    {
+      "name": "AirPods Pro",
+      "price": "250",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1591634795000"
+    }
+  ]
+}

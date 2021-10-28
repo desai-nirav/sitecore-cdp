@@ -1,0 +1,122 @@
+{
+  "title": "Enhance the products you love by certified accessories.",
+  "subtitle": "Snap on a case, wallet, wireless charger, or the new battery pack.",
+  "listtitle": "Featured Apple Accessories",
+  "products": [
+    {
+      "name": "Galaxy Buds Pro, Phantom Violet",
+      "price": "170",
+      "img": "https://image-us.samsung.com/us/smartphones/galaxy-s21/attic/violet/Position9_PDP-GALLERY-Attic-Violet-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "price": "30",
+      "name": "Quick Change Silicone Sport Watch Band (20mm) Crimson Red",
+      "img": "https://image-us.samsung.com/SamsungUS/home/mobile/mobile-accessories/watches/11-06-2020/3-piece/Crimson.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "iPhone Leather Wallet with MagSafe - Golden Brown",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM0Q3_AV2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1629865174000"
+    },
+    {
+      "name": "iPhone 13 Clear Case with MagSafe",
+      "price": "50",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2X3?wid=532&hei=582&fmt=png-alpha&.v=1630622653000"
+    },
+    {
+      "name": "iPhone 12 mini Leather Sleeve with MagSafe - Deep Violet",
+      "price": "130",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK093?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1617329609000"
+    },
+    {
+      "name": "iPhone 13 Pro Max Leather Case with MagSafe - Wisteria",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM1P3?wid=532&hei=582&fmt=png-alpha&.v=1629962874000"
+    },
+    {
+      "name": "iPhone 13 Pro Silicone Case with MagSafe - Clover",
+      "price": "50",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2F3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1629923594000"
+    },
+    {
+      "name": "MagSafe Duo Charger",
+      "price": "130",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXF3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1602179308000"
+    },
+    {
+      "name": "Belkin BOOST CHARGE PRO 3-in-1 Wireless Charger with MagSafe - White",
+      "price": "140",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPGA2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1619024763000"
+    },
+    {
+      "name": "Mophie 3-in-1 Stand for MagSafe Charger",
+      "price": "90",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPP82?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1623426899000"
+    },
+    {
+      "name": "AirPods Pro",
+      "price": "250",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1591634795000"
+    },
+    {
+      "name": "Apple Pencil (2nd generation)",
+      "price": "130",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1540596407165"
+    },
+    {
+      "name": "Smart Folio for iPad mini (6th generation) - Electric Orange",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM6J3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1630095972000"
+    },
+    {
+      "name": "Smart Folio for iPad mini (6th generation) - English Lavender",
+      "price": "60",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM6L3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1630095961000"
+    },
+    {
+      "name": "Magic Keyboard for iPad Pro 12.9‑inch (5th generation) - US English - White",
+      "price": "350",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJQL3LL?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1617919104000"
+    },
+    {
+      "name": "USB-C Digital AV Multiport Adapter",
+      "price": "70",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUF82?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1590526633000"
+    },
+    {
+      "name": "Logitech Crayon for iPad",
+      "price": "70",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HMGA2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1536966898657"
+    },
+    {
+      "name": "IK Multimedia iRig Pro I/O Audio and MIDI Interface",
+      "price": "150",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HLGN2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1628186087000"
+    },
+    {
+      "name": "S Pen Fold Edition, Black",
+      "price": "50",
+      "img": "https://image-us.samsung.com/us/mobile-accessories/b2/s-pens/EJ-PF926B_001_Front_Black_RGB-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Galaxy Z Fold3 5G Silicone Cover, White",
+      "price": "40",
+      "img": "https://image-us.samsung.com/us/mobile-accessories/q2/gallery/Gallery-EF-PF926T-01-Dynamic-White-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Galaxy Z Fold3 5G Flip Cover with Pen, Black",
+      "price": "80",
+      "img": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/8-11-21/PDP-GALLERY-Q-cover_Spen-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "25W Super Fast Wall Charger, White",
+      "price": "20",
+      "img": "https://image-us.samsung.com/us/smartphones/galaxy-s21/palette/fast-charger-25w/gallery/EP-TA800N_US__001_Dynamic_White.jpg?$product-details-blur-jpg$"
+    },
+    {
+      "name": "Expand your Galaxy Ecosystem Bundle",
+      "price": "1400",
+      "img": "https://image-us.samsung.com/SamsungUS/configurator/bundles/Themed-Bundle-Tab_S7plus_Mystic_Black_keyboard-GW3-BudsPro-Merch-1600x1200.png?$product-card-small-jpg$"
+    }
+  ]
+}
